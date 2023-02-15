@@ -12,11 +12,11 @@ In this project we have built an web application for buying PC components.
 
 The frontend and backend used for this project HTML/CSS and java sevlet respectively.
 
-## Languages
+## 🔖Languages
 
 Java
 
-## Tool
+## 🔨Tool
 
 NetBeans 8.2
 
